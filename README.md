@@ -1,10 +1,15 @@
-# GrokConnector
+# Max App Builder v2
 
-**God-Level Grok Web Surfing Connector**
+**Grok-Powered iOS App Studio Connector**
 
-AI-led browser with live DOM screenshots, immersive visual feedback, and real-time Grok intelligence.
+The ultimate web connector for Grok to build production-ready native iOS apps with SwiftUI. Turn any natural-language idea into complete, App Store-ready SwiftUI code.
 
-Built as a production-ready React + Vite + TypeScript application.
+## Features
+- Premium chat interface for app ideation
+- Full SwiftUI code generation following Max App Builder standards
+- Interactive previews and code editor
+- Export ready projects
+- Follows Apple HIG, modern SwiftUI best practices
 
 ## Getting Started
 
@@ -13,4 +18,6 @@ npm install
 npm run dev
 ```
 
-Live demo concept: https://github.com/kwizzlesurp10-ctrl/grok-connector
+Built as production-ready React + Vite + TypeScript web application.
+
+This is the official Grok 'connector' for Max App Builder v2.
